@@ -1,5 +1,5 @@
 # MonitorDecibel
 # How to Use
 
-#npm start for server
-#npm run android for client 
+1. npm start for server
+2. npm run android for client 
